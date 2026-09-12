@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /api/health
+Allow: /api/v1
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /api/auth
